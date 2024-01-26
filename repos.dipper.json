@@ -36,7 +36,7 @@
       }
     },
     "AnyKernel3": {
-      "use": true,
+      "use": false,
       "release": true,
       "repo": "https://github.com/Akitlove/AnyKernel3",
       "branch": "master"
